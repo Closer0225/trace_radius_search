@@ -1,0 +1,68 @@
+﻿  Building NVCC (Device) object CMakeFiles/OptixNormals.dir/src/Debug/OptixNormals_generated_morton.cu.obj
+  morton.cu
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\include\cub/warp/specializations/warp_exchange_shfl.cuh(1): warning C4819: 璇ユ枃浠跺寘鍚笉鑳藉湪褰撳墠浠ｇ爜椤?936)涓〃绀虹殑瀛楃銆傝灏嗚鏂囦欢淇濆瓨涓?Unicode 鏍煎紡浠ラ槻姝㈡暟鎹涪澶?
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\include\cuda.h(22252): warning C4819: 璇ユ枃浠跺寘鍚笉鑳藉湪褰撳墠浠ｇ爜椤?936)涓〃绀虹殑瀛楃銆傝灏嗚鏂囦欢淇濆瓨涓?Unicode 鏍煎紡浠ラ槻姝㈡暟鎹涪澶?
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\include\cuda.h(22958): warning C4819: 璇ユ枃浠跺寘鍚笉鑳藉湪褰撳墠浠ｇ爜椤?936)涓〃绀虹殑瀛楃銆傝灏嗚鏂囦欢淇濆瓨涓?Unicode 鏍煎紡浠ラ槻姝㈡暟鎹涪澶?
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\include\cub/warp/specializations/warp_exchange_shfl.cuh(1): warning C4819: 璇ユ枃浠跺寘鍚笉鑳藉湪褰撳墠浠ｇ爜椤?936)涓〃绀虹殑瀛楃銆傝灏嗚鏂囦欢淇濆瓨涓?Unicode 鏍煎紡浠ラ槻姝㈡暟鎹涪澶?
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\include\cuda.h(22252): warning C4819: 璇ユ枃浠跺寘鍚笉鑳藉湪褰撳墠浠ｇ爜椤?936)涓〃绀虹殑瀛楃銆傝灏嗚鏂囦欢淇濆瓨涓?Unicode 鏍煎紡浠ラ槻姝㈡暟鎹涪澶?
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\include\cuda.h(22958): warning C4819: 璇ユ枃浠跺寘鍚笉鑳藉湪褰撳墠浠ｇ爜椤?936)涓〃绀虹殑瀛楃銆傝灏嗚鏂囦欢淇濆瓨涓?Unicode 鏍煎紡浠ラ槻姝㈡暟鎹涪澶?
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\include\cub/warp/specializations/warp_exchange_shfl.cuh(1): warning C4819: 璇ユ枃浠跺寘鍚笉鑳藉湪褰撳墠浠ｇ爜椤?936)涓〃绀虹殑瀛楃銆傝灏嗚鏂囦欢淇濆瓨涓?Unicode 鏍煎紡浠ラ槻姝㈡暟鎹涪澶?
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\include\cuda.h(22252): warning C4819: 璇ユ枃浠跺寘鍚笉鑳藉湪褰撳墠浠ｇ爜椤?936)涓〃绀虹殑瀛楃銆傝灏嗚鏂囦欢淇濆瓨涓?Unicode 鏍煎紡浠ラ槻姝㈡暟鎹涪澶?
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\include\cuda.h(22958): warning C4819: 璇ユ枃浠跺寘鍚笉鑳藉湪褰撳墠浠ｇ爜椤?936)涓〃绀虹殑瀛楃銆傝灏嗚鏂囦欢淇濆瓨涓?Unicode 鏍煎紡浠ラ槻姝㈡暟鎹涪澶?
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\include\cub/warp/specializations/warp_exchange_shfl.cuh(1): warning C4819: 璇ユ枃浠跺寘鍚笉鑳藉湪褰撳墠浠ｇ爜椤?936)涓〃绀虹殑瀛楃銆傝灏嗚鏂囦欢淇濆瓨涓?Unicode 鏍煎紡浠ラ槻姝㈡暟鎹涪澶?
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\include\cuda.h(22252): warning C4819: 璇ユ枃浠跺寘鍚笉鑳藉湪褰撳墠浠ｇ爜椤?936)涓〃绀虹殑瀛楃銆傝灏嗚鏂囦欢淇濆瓨涓?Unicode 鏍煎紡浠ラ槻姝㈡暟鎹涪澶?
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\include\cuda.h(22958): warning C4819: 璇ユ枃浠跺寘鍚笉鑳藉湪褰撳墠浠ｇ爜椤?936)涓〃绀虹殑瀛楃銆傝灏嗚鏂囦欢淇濆瓨涓?Unicode 鏍煎紡浠ラ槻姝㈡暟鎹涪澶?
+  morton.cu
+  tmpxft_000056e8_00000000-10_morton.cudafe1.cpp
+  main.cpp
+C:\CloserAPP\PCL3D\fast_radius_search-main\src\main.cpp(5,10): error C1083: 无法打开包括文件: “tiny_obj_loader.h”: No such file or directory
+  radius_search.cpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\include\cuda.h(22252,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../src/radius_search.cpp”)
+  
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\include\cuda.h(22958,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../src/radius_search.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\CloserAPP\PCL3D\fast_radius_search-main\include\cuda_buffer.hpp(121,45): warning C4141: “inline”: 使用了多次
+  (编译源文件“../src/radius_search.cpp”)
+      C:\CloserAPP\PCL3D\fast_radius_search-main\include\cuda_buffer.hpp(121,45):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\CloserAPP\PCL3D\fast_radius_search-main\include\cuda_buffer.hpp(14,11):
+          在编译类模板“bvh_radSearch::cudaBuffer”时
+  
+C:\CloserAPP\PCL3D\fast_radius_search-main\include\cuda_buffer.hpp(123,45): warning C4141: “inline”: 使用了多次
+  (编译源文件“../src/radius_search.cpp”)
+  
+C:\CloserAPP\PCL3D\fast_radius_search-main\include\radius_search.hpp(77,17): warning C4297: “bvh_radSearch::bvh_index::shader_t::~shader_t”: 假定函数不引发异常，但确实发生了
+  (编译源文件“../src/radius_search.cpp”)
+      C:\CloserAPP\PCL3D\fast_radius_search-main\include\radius_search.hpp(77,17):
+      析构函数或释放器具有一个(可能是隐含的)非引发异常规范
+  
+C:\CloserAPP\PCL3D\fast_radius_search-main\include\radius_search.hpp(78,17): warning C4297: “bvh_radSearch::bvh_index::shader_t::~shader_t”: 假定函数不引发异常，但确实发生了
+  (编译源文件“../src/radius_search.cpp”)
+      C:\CloserAPP\PCL3D\fast_radius_search-main\include\radius_search.hpp(78,17):
+      析构函数或释放器具有一个(可能是隐含的)非引发异常规范
+  
+C:\CloserAPP\PCL3D\fast_radius_search-main\include\radius_search.hpp(79,17): warning C4297: “bvh_radSearch::bvh_index::shader_t::~shader_t”: 假定函数不引发异常，但确实发生了
+  (编译源文件“../src/radius_search.cpp”)
+      C:\CloserAPP\PCL3D\fast_radius_search-main\include\radius_search.hpp(79,17):
+      析构函数或释放器具有一个(可能是隐含的)非引发异常规范
+  
+C:\CloserAPP\PCL3D\fast_radius_search-main\src\radius_search.cpp(89,9): error C3861: “optixModuleCreateFromPTX”: 找不到标识符
+C:\CloserAPP\PCL3D\fast_radius_search-main\src\radius_search.cpp(127,1): warning C4002: 类函数宏的调用“OPTIX_CHECK_LOG”参数过多
+C:\CloserAPP\PCL3D\fast_radius_search-main\src\radius_search.cpp(177,31): error C2039: "debugLevel": 不是 "OptixPipelineLinkOptions" 的成员
+      C:\ProgramData\NVIDIA Corporation\OptiX SDK 8.1.0\include\optix_types.h(2277,16):
+      参见“OptixPipelineLinkOptions”的声明
+  
+C:\CloserAPP\PCL3D\fast_radius_search-main\src\radius_search.cpp(192,13): error C2660: “optixUtilAccumulateStackSizes”: 函数不接受 2 个参数
+      C:\ProgramData\NVIDIA Corporation\OptiX SDK 8.1.0\include\optix_stack_size.h(56,20):
+      参见“optixUtilAccumulateStackSizes”的声明
+      C:\CloserAPP\PCL3D\fast_radius_search-main\src\radius_search.cpp(192,13):
+      尝试匹配参数列表“(_Ty, OptixStackSizes *)”时
+          with
+          [
+              _Ty=OptixProgramGroup
+          ]
+  
+  正在生成代码...

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\CloserAPP\PCL3D\fast_radius_search-main\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\CloserAPP\PCL3D\fast_radius_search-main\src\radius_search.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\CloserAPP\PCL3D\fast_radius_search-main\src\morton.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\CloserAPP\PCL3D\fast_radius_search-main\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\CloserAPP\PCL3D\fast_radius_search-main\build\CMakeFiles\OptixNormals.dir\src\$(Configuration)\OptixNormals_generated_morton.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{F37E449B-2BD7-3F97-8AE6-662B86889D47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0B944FBB-A19B-35F7-81C8-994DB51153AA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

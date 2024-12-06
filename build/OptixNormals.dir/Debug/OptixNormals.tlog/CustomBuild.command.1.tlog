@@ -1,0 +1,26 @@
+^C:\CLOSERAPP\PCL3D\FAST_RADIUS_SEARCH-MAIN\SRC\MORTON.CU
+setlocal
+cd C:\CloserAPP\PCL3D\fast_radius_search-main\build\CMakeFiles\OptixNormals.dir\src
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\CloserAPP\Cmake\bin\cmake.exe -E make_directory C:/CloserAPP/PCL3D/fast_radius_search-main/build/CMakeFiles/OptixNormals.dir/src/Debug
+if %errorlevel% neq 0 goto :cmEnd
+C:\CloserAPP\Cmake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools/MSVC/14.42.34433/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/CloserAPP/PCL3D/fast_radius_search-main/build/CMakeFiles/OptixNormals.dir/src/Debug/OptixNormals_generated_morton.cu.obj -D generated_cubin_file:STRING=C:/CloserAPP/PCL3D/fast_radius_search-main/build/CMakeFiles/OptixNormals.dir/src/Debug/OptixNormals_generated_morton.cu.obj.cubin.txt -P C:/CloserAPP/PCL3D/fast_radius_search-main/build/CMakeFiles/OptixNormals.dir/src/OptixNormals_generated_morton.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\CLOSERAPP\PCL3D\FAST_RADIUS_SEARCH-MAIN\CMAKELISTS.TXT
+setlocal
+C:\CloserAPP\Cmake\bin\cmake.exe -SC:/CloserAPP/PCL3D/fast_radius_search-main -BC:/CloserAPP/PCL3D/fast_radius_search-main/build --check-stamp-file C:/CloserAPP/PCL3D/fast_radius_search-main/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
